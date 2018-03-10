@@ -7,3 +7,6 @@ A choropleth map showing the flow rate of countries that connect to a bioinforma
 3. From 2017/12 to 2018/3
 
 ![](https://i.imgur.com/77lOU7v.png)
+
+
+[**Click here to go to the interactive world map page**](https://howardchao.github.io/Folium_Worldmap/GeoJSON_and_choropleth_low.html)
