@@ -14,7 +14,7 @@ some analysis graphics about the flow rate of a bio-website
 ![](https://i.imgur.com/77lOU7v.png)
 
 
-[**Click here to go to the interactive world map page**](https://howardchao.github.io/Folium_Worldmap/GeoJSON_and_choropleth_low.html)
+[**Click here to go to the interactive world map page**](https://howardchao.github.io/Folium_Worldmap/map_html/GeoJSON_and_choropleth_low.html)
 
 ![](https://i.imgur.com/aheQqSP.png)
 **The pie chart of different functions**
