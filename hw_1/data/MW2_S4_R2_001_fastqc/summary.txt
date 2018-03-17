@@ -1,0 +1,12 @@
+PASS	Basic Statistics	MW2_S4_R2_001.fastq
+WARN	Per base sequence quality	MW2_S4_R2_001.fastq
+PASS	Per tile sequence quality	MW2_S4_R2_001.fastq
+PASS	Per sequence quality scores	MW2_S4_R2_001.fastq
+FAIL	Per base sequence content	MW2_S4_R2_001.fastq
+PASS	Per sequence GC content	MW2_S4_R2_001.fastq
+PASS	Per base N content	MW2_S4_R2_001.fastq
+WARN	Sequence Length Distribution	MW2_S4_R2_001.fastq
+WARN	Sequence Duplication Levels	MW2_S4_R2_001.fastq
+PASS	Overrepresented sequences	MW2_S4_R2_001.fastq
+PASS	Adapter Content	MW2_S4_R2_001.fastq
+FAIL	Kmer Content	MW2_S4_R2_001.fastq
