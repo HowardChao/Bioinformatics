@@ -12,3 +12,5 @@ Some small project of bioinformatics
 3. **GeneMark_License_Download**
 
     * A simple python script. Using Selenium and Chrome browser to automatically download and update the gm_key_64 key.
+    
+(For more information, find out in each folder's README.md)
